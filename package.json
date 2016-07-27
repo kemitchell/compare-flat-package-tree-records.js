@@ -1,0 +1,14 @@
+{
+  "name": "compare-flat-package-tree-records",
+  "description": "compare flat package tree records",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "dependencies": {
+    "semver": "^5.3.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "repository": "kemitchell/compare-flat-package-tree-records.js"
+}
